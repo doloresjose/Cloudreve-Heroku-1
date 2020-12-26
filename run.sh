@@ -14,5 +14,5 @@ SessionSecret = 23333
 HashIDSalt = something really hard to guss
 EOF
 
-
+/root/aria2/trackers-list-aria2.sh
 /root/cloudreve/cloudreve -c /root/cloudreve/conf.ini
